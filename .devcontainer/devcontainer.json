@@ -9,7 +9,7 @@
 	// Set *default* container specific settings.json values on container create.
 	"settings": { 
 		"java.jdt.ls.java.home": "/usr/local/openjdk-11",
-		// "maven.executable.path": "/usr/local/sdkman/candidates/maven/current/bin/mvn"
+		"maven.executable.path": "/opt/apache-maven-3.8.5/bin/mvn",
 		"java.checkstyle.configuration": "https://raw.githubusercontent.com/checkstyle/checkstyle/master/src/main/resources/google_checks.xml",
 		"java.checkstyle.version": "10.2",
 		"java.format.settings.profile": "GoogleStyle4Nstock",

@@ -18,11 +18,7 @@ Visual Studio Code の Dev Container で Java 開発を行うサンプルリポ�
 - Maven：3.8.5
 
 # セットアップ
-## Maven Wrapper
-ターミナルを操作して、pom.xml が保存されたディレクトリで以下コマンドを実行して下さい
-```
-mvn wrapper:wrapper
-```
+
 
 # 実行
 "SPRING BOOT DASHBOARD" にて "RUN" を押下して下さい
